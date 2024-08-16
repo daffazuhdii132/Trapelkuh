@@ -1,0 +1,42 @@
+[
+  {
+    "code": "JKT",
+    "name": "Jakarta"
+  },
+  {
+    "code": "BDG",
+    "name": "Bandung"
+  },
+  {
+    "code": "SBY",
+    "name": "Surabaya"
+  },
+  {
+    "code": "SMG",
+    "name": "Semarang"
+  },
+  {
+    "code": "YGY",
+    "name": "Yogyakarta"
+  },
+  {
+    "code": "MLG",
+    "name": "Malang"
+  },
+  {
+    "code": "CRB",
+    "name": "Cirebon"
+  },
+  {
+    "code": "SLO",
+    "name": "Solo"
+  },
+  {
+    "code": "BGR",
+    "name": "Bogor"
+  },
+  {
+    "code": "TGR",
+    "name": "Tangerang"
+  }
+]

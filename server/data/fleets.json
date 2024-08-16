@@ -1,0 +1,52 @@
+[
+  {
+    "code": "PTK-001",
+    "category": "Economy",
+    "RouteId": 1
+  },
+  {
+    "code": "PTK-002",
+    "category": "Economy",
+    "RouteId": 2
+  },
+  {
+    "code": "PTK-003",
+    "category": "Economy",
+    "RouteId": 3
+  },
+  {
+    "code": "PTK-004",
+    "category": "Economy",
+    "RouteId": 4
+  },
+  {
+    "code": "PTK-005",
+    "category": "Economy",
+    "RouteId": 5
+  },
+  {
+    "code": "PTK-006",
+    "category": "Economy",
+    "RouteId": 6
+  },
+  {
+    "code": "PTK-007",
+    "category": "Economy",
+    "RouteId": 7
+  },
+  {
+    "code": "PTK-008",
+    "category": "Economy",
+    "RouteId": 8
+  },
+  {
+    "code": "PTK-009",
+    "category": "Economy",
+    "RouteId": 9
+  },
+  {
+    "code": "PTK-010",
+    "category": "Economy",
+    "RouteId": 10
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "FromCityId": 3,
+    "ToCityId": 7,
+    "departTime": "2024-07-20T15:00:00",
+    "arrivalTime": "2024-07-20T17:00:00",
+    "price": 560000
+  },
+  {
+    "FromCityId": 5,
+    "ToCityId": 9,
+    "departTime": "2024-07-20T15:00:00",
+    "arrivalTime": "2024-07-20T18:00:00",
+    "price": 780000
+  },
+  {
+    "FromCityId": 1,
+    "ToCityId": 10,
+    "departTime": "2024-07-20T15:00:00",
+    "arrivalTime": "2024-07-20T16:30:00",
+    "price": 430000
+  },
+  {
+    "FromCityId": 8,
+    "ToCityId": 2,
+    "departTime": "2024-07-20T15:00:00",
+    "arrivalTime": "2024-07-20T19:00:00",
+    "price": 890000
+  },
+  {
+    "FromCityId": 4,
+    "ToCityId": 6,
+    "departTime": "2024-07-20T15:00:00",
+    "arrivalTime": "2024-07-20T16:45:00",
+    "price": 320000
+  },
+  {
+    "FromCityId": 2,
+    "ToCityId": 6,
+    "departTime": "2024-07-20T15:00:00",
+    "arrivalTime": "2024-07-20T16:30:00",
+    "price": 480000
+  },
+  {
+    "FromCityId": 9,
+    "ToCityId": 3,
+    "departTime": "2024-07-20T15:00:00",
+    "arrivalTime": "2024-07-20T17:30:00",
+    "price": 620000
+  },
+  {
+    "FromCityId": 7,
+    "ToCityId": 5,
+    "departTime": "2024-07-20T15:00:00",
+    "arrivalTime": "2024-07-20T18:15:00",
+    "price": 740000
+  },
+  {
+    "FromCityId": 10,
+    "ToCityId": 1,
+    "departTime": "2024-07-20T15:00:00",
+    "arrivalTime": "2024-07-20T19:00:00",
+    "price": 900000
+  },
+  {
+    "FromCityId": 4,
+    "ToCityId": 8,
+    "departTime": "2024-07-20T15:00:00",
+    "arrivalTime": "2024-07-20T16:45:00",
+    "price": 320000
+  }
+]
